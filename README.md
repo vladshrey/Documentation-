@@ -1,2 +1,2 @@
-# JourneyToGreaterVersion
+# Vladshrey
 Documentation of my Journey
